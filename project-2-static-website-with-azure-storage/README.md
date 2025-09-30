@@ -2,7 +2,7 @@
 
 ## Overview
 Deployed a static website hosted in Azure Storage with  
-CDN acceleration, custom domain + HTTPS, and GitHub actions CI/CD pipeline  
+CDN acceleration, custom domain + HTTPS
 
 ## Step-by-step
 -Create Resource Group for project  
@@ -15,3 +15,4 @@ CDN acceleration, custom domain + HTTPS, and GitHub actions CI/CD pipeline
 -Set up HTTPS certificate, managaged by Azure  
 -Set up DNS on namecheap.com to point to static website on Azure  
 -(CNAME record, URL Redirect Record, TXT record for Azure verification)
+
